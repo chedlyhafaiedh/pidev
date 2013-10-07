@@ -1,0 +1,15 @@
+package tn.edu.esprit.pIDev.claimManagementModuleClientProject.locator;
+
+
+
+public class ServiceLocatorException extends RuntimeException {
+  
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 277863376546803749L;
+
+	public ServiceLocatorException(Throwable cause) {
+		super(cause);
+	}
+}
